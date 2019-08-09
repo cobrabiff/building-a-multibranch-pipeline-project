@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\jenkins",
+    "\\jenkins\\scripts",
+    "\\Local settings (.vs)",
+    "\\public",
+    "\\src"
+  ],
+  "SelectedNode": "\\jenkins\\scripts\\deliver-for-development.sh",
+  "PreviewInSolutionExplorer": false
+}
